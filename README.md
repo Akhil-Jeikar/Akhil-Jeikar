@@ -50,21 +50,16 @@ and algorithmic behavior from first principles.
 
 <h3 align="center">GitHub Activity</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Jeikar&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Akhil-Jeikar&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Jeikar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <hr/>
 
 <h3 align="center">Contact</h3>
 <p align="center">
-  📧 akhiljeikar06@gmail.com
+  Mail: akhiljeikar06@gmail.com
 </p>
